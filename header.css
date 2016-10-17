@@ -1,0 +1,57 @@
+/* DESIGN */
+html{
+  -ms-text-size-adjust:100%;
+  -webkit-text-size-adjust:100%}
+
+/* DESIGN */
+body{
+  margin:0
+  }
+
+body, html {
+  height: 100%;
+  }
+
+/* DESIGN */
+.w3-wide{
+  letter-spacing:4px;
+  font-family:"Segoe UI",Arial,sans-serif
+  }
+
+/* DESIGN */
+.w3-small{
+  font-size:12px;
+  }
+
+/* DESIGN */
+.w3-large{
+  font-size:18px;
+  }
+
+/* DESIGN */
+.w3-display-middle{
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+  -ms-transform:translate(-50%,-50%)
+  }
+
+/* Styling instillinger for font. */
+{
+  font-family: "Lato", sans-serif
+}
+
+/* Styling for å lage Parallax Effect. */
+.bgimg-1{
+  opacity: 0.7;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+
+/* FARGE */
+.w3-black{
+  color:#fff;background-color:#000;
+  }
